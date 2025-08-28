@@ -1,0 +1,15 @@
+.main_form{
+    background-color:#79B5BA !important;
+    border: 1px solid black ;
+    border-radius: 1cap;
+    padding: 10px;
+}
+
+.selector{
+    padding-right: 1cap;
+    /* padding-right: 1px; */
+}
+
+.preview-btn{
+    padding-right:6cap;
+}
